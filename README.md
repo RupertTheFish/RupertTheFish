@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Rafael Krüger aka @RupertTheFish
 
-🚀 Aspiring Python Developer & Data Analyst
+🚀 Aspiring Python Developer & Data Analyst  
 🔍 Passionate about data manipulation, automation, and web development  
 About Me
 
