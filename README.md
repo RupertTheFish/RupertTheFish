@@ -11,17 +11,17 @@ About Me
 
 Tech Stack & Skills
 
-📌 Languages: Python, JavaScript, SQL, HTML, CSS
-📌 Frameworks & Tools: Django, Pandas, NumPy, Tableau, Docker, Git
-📌 Other Skills: Data Cleaning, Data Visualization, Web Development, Cybersecurity Basics
+📌 Languages: Python, JavaScript, SQL, HTML, CSS  
+📌 Frameworks & Tools: Django, Pandas, NumPy, Tableau, Docker, Git  
+📌 Other Skills: Data Cleaning, Data Visualization, Web Development, Cybersecurity Basics  
 How to Reach Me
 
-📧 Email: kruger.rafael@outlook.com
-🔗 LinkedIn : https://www.linkedin.com/in/rafael-santos-kruger/
-💻 GitHub Portfolio : https://github.com/RupertTheFish
-Fun Fact 😄
+📧 Email: kruger.rafael@outlook.com  
+🔗 LinkedIn : https://www.linkedin.com/in/rafael-santos-kruger/  
+💻 GitHub Portfolio : https://github.com/RupertTheFish  
+Fun Fact 😄  
 
-⚡ When I’m not coding, I enjoy rock climbing, designing projects and woodworking
+⚡ When I’m not coding, I enjoy rock climbing, designing projects and woodworking  
 
 <!---
 RupertTheFish/RupertTheFish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
