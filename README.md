@@ -17,7 +17,7 @@ Tech Stack & Skills
 
 How to Reach Me
 
-📧 Email: kruger.rafael@outlook.com  
+📧 Email: kruger.rafael@outlook.com || rafaelskruger@hotmail.com 
 🔗 LinkedIn : https://www.linkedin.com/in/rafael-santos-kruger/  
 💻 GitHub Portfolio : https://github.com/RupertTheFish  
 Fun Fact 😄  
