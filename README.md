@@ -12,7 +12,7 @@ About Me
 Tech Stack & Skills
 
 📌 Languages: Python, JavaScript, SQL, HTML, CSS  
-📌 Frameworks & Tools: Django, Pandas, NumPy, PowerBI
+📌 Frameworks & Tools: Pandas, NumPy, PowerBI, MySQL
 📌 Other Skills: Data Cleaning, Data Visualization, Web Development, Cybersecurity Basics  
 
 How to Reach Me
